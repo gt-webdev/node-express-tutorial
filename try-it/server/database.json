@@ -1,0 +1,87 @@
+{
+    "recipes": [
+        {
+            "id": "olive-oil",
+            "title": "Olive Oil",
+            "steps": [
+                "Put olives into a bowl",
+                "Put oil into the bowl",
+                "Stir until ready"
+            ],
+            "ingredients": [
+                {
+                    "item": "olive",
+                    "quantity": 3
+                },
+                {
+                    "item": "oil",
+                    "quantity": 5
+                }
+            ]
+        },
+        {
+            "id": "evoo",
+            "title": "Extra Virgin Olive Oil",
+            "steps": [
+                "Make virgin olive oil",
+                "Make more of it"
+            ],
+            "ingredients": [
+                {
+                    "item": "virgin olive oil",
+                    "quantity": 8
+                },
+                {
+                    "item": "virgin olive oil",
+                    "quantity": 2
+                }
+            ]
+        },
+        {
+            "id": "lobster-tail",
+            "title": "Broiled Lobster Tail",
+            "steps": [
+                "Look at your bank account",
+                "Cry",
+                "Make ramen for the 8th consecutive night"
+            ],
+            "ingredients": [
+                {
+                    "item": "student loan debt",
+                    "quantity": 1000000
+                }
+            ]
+        },
+        {
+            "id": "cookie-dough",
+            "title": "Cookie Dough",
+            "steps": [
+                "Make cookies",
+                "Inverse bake the cookies"
+            ],
+            "ingredients": [
+                {
+                    "item": "cookie",
+                    "quantity": 2
+                },
+                {
+                    "item": "time machine",
+                    "quantity": 1
+                }
+            ]
+        },
+        {
+            "id": "nothing",
+            "title": "Nothing",
+            "steps": [
+                "Literally just don't"
+            ],
+            "ingredients": [
+                {
+                    "item": "nothing",
+                    "quantity": 0
+                }
+            ]
+        }
+    ]
+}
