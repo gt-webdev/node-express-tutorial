@@ -12,8 +12,8 @@ If you're running into "ModuleNotFound" errors while trying to run the Node.js s
 You can run the API by going to the completed code with the terminal command ```cd complete/server``` and running ```node index.js```. You can close the server by simply clicking Command-C in the terminal shell.
 
 ## Links to Tutorials
-My first tutorial about what APIs are can be found here: TODO
+My first tutorial about what APIs are can be found here: https://drive.google.com/file/d/1O7PhdUbBz4VXlT8LBrDNlfp01I9pY-Pe/view?usp=sharing
 <br />
 The presentation shown in that tutorial can be found here: https://docs.google.com/presentation/d/1ooc8-TQoofaG6D4kfGBYHpf7rnFX3167ESqdFVh0C9U/edit?usp=sharing
 <br />
-My second tutorial (the one using this codebase) about how to create an API with Node and Express can be found here: TODO
+My second tutorial (the one using this codebase) about how to create an API with Node and Express can be found here: https://drive.google.com/file/d/1SuJmMWBqOyuMo1YDEPj0KQJorkTTv1gs/view?usp=sharing

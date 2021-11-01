@@ -1,6 +1,10 @@
 # GT WebDev Node/Express API Tutorial
 
-## Step 1 - Installing Node.js and Postman
+## Step 1a - Getting This Code
+You'll either want to clone this repository or simply download the code. You can download the code by clicking "Code" then "Download ZIP", and you can clone the repository in your terminal by running the following:
+```git clone https://github.com/gt-webdev/node-express-tutorial.git```
+
+## Step 1b - Installing Node.js and Postman
 Before doing anything, you're going to need to download Node.js at https://nodejs.org/en/download/
 <br />
 Additionally, if you want to test out your API requests as shown in the video tutorial, you can download Postman here: https://www.postman.com/downloads/
@@ -130,7 +134,7 @@ app.delete('/api/delete-recipe/:id', (req, res) => {
 Take a look at the following code:
 ```
 app.put('/api/update-recipe/:id', (req, res) => {
-    // CHALLENGE - write 
+    // challenge code here
 });
 ```
 This handles a PUT request (which updates data) with a given id. Write code that updates the recipe at the specified ID with a new value/s for the title, steps, and/or ingredients. The implementation is open-ended, but here are some things to think about:
